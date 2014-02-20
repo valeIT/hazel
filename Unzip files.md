@@ -1,6 +1,6 @@
 #Unzip files
 
-For .tar and .zip files you simply use the unzip already included in hazel 
+For .tar and .zip files you simply use the unzip already included in hazel: 
 
 <code>
 if all [..] :
@@ -30,5 +30,5 @@ Move to folder Trash
 </code>
 
 <code>rar e $1</code>
-is a simple version that simply unrar everything in the current folder, if you want a more specific behaviour write <code> rar -?</code> in the command line
+is a simple version that simply unrar everything in the current folder, if you want a more specific behaviour write <code> rar -?</code> in the command line.
 
